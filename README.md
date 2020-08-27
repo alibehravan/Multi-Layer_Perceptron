@@ -1,4 +1,4 @@
-# Multi-Layer_Perceptron
+# Multi-Layer-Perceptron
 Implementation of a two layer perceptron to learn and predict simple input-output vectors in MATLAB.
 
 The activation function can be chosen from Sigmoid or ReLU. For back-propagation a simple gradient-descent method is used, so convergence of the training is sensitive to hyper parameteres.
